@@ -11,6 +11,12 @@
     <h1>test</h1>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos sapiente accusamus facere neque corporis
         vitae eligendi nisi amet fugiat, ab facilis ad doloribus fugit, sit magni, aliquam illum saepe labore!</p>
+        <ul>
+            </ul>
+            <li>satu</li>
+            <li>satu</li>
+            <li>satu</li>
+        </ul>
 </body>
 
 </html>
